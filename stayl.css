@@ -1,0 +1,50 @@
+.div{
+    border: solid 2px rgb(74, 65, 65);  
+    width: 26%;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center ;
+    justify-content: center;
+    
+    margin: 0 auto;
+}
+.uch{
+    border:  solid 2px blue;
+   position: absolute;
+}
+
+.fig{
+    border: solid 2px black;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    width: 70px;
+    border-radius: 20px;
+    padding: 3px; 
+}
+
+.dis{
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    justify-content: space-between;
+    padding: 20px;
+   
+  
+}
+.btn{
+    border: solid 2px black;
+    width: 29px;
+    height: 29px;
+    display: flex;
+    align-items: center;
+    border-radius: 50%;
+    transition: calc(1s);
+    background-color: blue;
+    
+}
+.div2{
+    margin-left: 40px;
+
+}
+
